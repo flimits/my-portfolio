@@ -1,0 +1,19 @@
+header {
+    background-color: rgb(118, 137, 213);
+    color: gold;
+}
+
+.flex {
+    display: flex;
+}
+
+.test {
+    justify-content: space-between;
+    box-sizing: border-box;
+    color: yellow;
+    
+}
+
+nav {
+    border: 5px solid rgb(3, 29, 37);
+}
