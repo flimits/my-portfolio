@@ -1,11 +1,29 @@
 header {
+    padding: 20px;
     background-color: rgb(118, 137, 213);
     color: gold;
 }
 
-.flex {
-    display: flex;
+header h1 {
+    /* display: inline-block; */
+    color: black;
+    display: inline;
+
 }
+
+header nav ul {
+    list-style: none;
+}
+
+header nav ul li {
+    /* display: inline-block; */
+    display: inline;
+    margin-left: 20px;
+}
+
+/* .flex {
+    display: flex;
+} */
 
 .space {
     justify-content: space-around;
@@ -21,7 +39,7 @@ div {
 }
 
 nav {
-    border: 30px solid rgb(3, 29, 37);
+    border: 5px solid rgb(3, 29, 37);
     background-color: chocolate;
     color: cyan;
 }
@@ -51,7 +69,8 @@ nav {
     height: 100px;
     width: 100px;
     margin: 5px;
-    border: 10px dotted black;
+    border: 5px solid black;
+    border-radius: 30px;
 
 }
 
@@ -59,8 +78,9 @@ nav {
     display: flex;
     align-items: flex-start;
     height: 200px;
-    border-style: dashed;
+    border-style: solid;
     border-width: 5px;
+    border-radius: 20px;
     background: linear-gradient(#f69d3c, #3f87a6);
     /* justify-content: right; */
 }
@@ -101,7 +121,6 @@ nav {
     flex-grow: 10px;
     background-color: darkgreen;
     align-content: space-evenly;
-    justify-content: ;
 }
 
 @media screen and (min-width: 982px) {
