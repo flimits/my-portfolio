@@ -11,6 +11,8 @@ One such navigation is to go to the Contacts at the bottom of the page, where yo
 
 ![Contact information in the Footer](./assets/images/footer_image.png))
 
+** NOTE: keep in mind that the social media links are not correct because I'm not putting in my real information ... just yet. However, they are there to show that you can click on the links and it will take you to something like it (if not incorrect)
+
 As you traverse the page, you can select the various Project pictures and it should take you to those pages so you can view them for yourselves. One example is the Horisean Project which was about styling and refactoring a sites CSS to improve performance and readability of the code.
 
 ## Some Technologies Relyed upon to complete this task
