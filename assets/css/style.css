@@ -129,6 +129,9 @@ footer .social_media {
     flex-direction: column;
 }
 
+.main-page{
+    width: 50%;
+}
 
 @media screen and (min-width: 982px) {
     body {
