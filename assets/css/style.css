@@ -133,6 +133,10 @@ footer .social_media {
     width: 50%;
 }
 
+.small-titles {
+    color:rgb(130, 6, 31);
+}
+
 @media screen and (min-width: 982px) {
     body {
       background-color: white;
